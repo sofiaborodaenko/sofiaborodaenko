@@ -9,8 +9,8 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sofiaborodaenko&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sofiaborodaenko&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sofiaborodaenko&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) <br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaborodaenko&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
