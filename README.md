@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sofia!
-💻 Aspiring Game/Software Developer <br/><br>👩🏼‍🎓 Studying Computer Science at the University of Toronto, Canada <br/><br>🎨 Create fun little projects <br/><br>💭 Currently strengthening my programming skills in Web Development, Java, and Python <br/><br>
+💻 Aspiring Web/Software Developer <br/><br>👩🏼‍🎓 Studying Computer Science at the University of Toronto, Canada <br/><br>🎨 Create fun little projects <br/><br>💭 Currently strengthening my programming skills in Web Development, Java, and Python <br/><br>
 
 
 ## 🌐 Socials:
